@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @itztejas88
-- 👀 I’m interested in AI deeloping for cybersecurity
-- 🌱 I’m currently learning about basics in AI
-- 💞️ I’m looking to collaborate on GKS
-- 📫 How to reach me itztejas88@gmail.com
-- I expect you like that
+
